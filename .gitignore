@@ -1,0 +1,4 @@
+airspaces/*.json
+airspaces/*.geojson
+airspaces.json
+*.pmtiles
